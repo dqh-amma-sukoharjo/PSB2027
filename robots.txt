@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dqh-amma-sukoharjo.github.io/PSB2027/sitemap.xml
